@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-<img src="https://i.ibb.co/CKcq1Fg/triangles-download.png"/>
+<img src="https://media.licdn.com/dms/image/D4E16AQFJGn6c3HIH7Q/profile-displaybackgroundimage-shrink_350_1400/0/1682537858518?e=1700697600&v=beta&t=8hb1fca6TU-YTG_wGY3NzWvijAKyUL8iWtoid24hKa4"/>
 </div>
 
 ###

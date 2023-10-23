@@ -15,7 +15,7 @@
 
 Game Development & Full-Stack Development
 
-C#, Python, Java, HTML/CSS/JavaScript
+C#, Python, Java, Javascript / Typescript
 
 Unity3D, Blender
 
